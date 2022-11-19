@@ -1,0 +1,10 @@
+edit/modify 在暫存區 未被tracked
+
+add -> tracked
+
+commit =>列入版本 commit id
+
+git 管理的是「動作」
+(建立有add但後來edit沒有)
+
+git status 是查看狀態
