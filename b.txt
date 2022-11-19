@@ -4,6 +4,8 @@ login
 
 register
 
+logout
+
 edit/modify 在暫存區 未被tracked
 
 add -> tracked
