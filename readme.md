@@ -7,5 +7,5 @@ git commit -m "練習git 推版"
 git push -u origin main
 
 ```
-##readme 作業
+## readme 作業
 >心得:
